@@ -20,6 +20,6 @@ function string_Method() {
 
 function precision_Method() {
     var X = 12938.3012907376112;
-    document.getElementById("Precision").innerHMTL = X.toPrecision(10);
+    document.getElementById("Precision").innerHTML = X.toPrecision(10);
 }
 
