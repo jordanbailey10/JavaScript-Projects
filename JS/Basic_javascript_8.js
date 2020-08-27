@@ -22,4 +22,3 @@ function precision_Method() {
     var X = 12938.3012907376112;
     document.getElementById("Precision").innerHTML = X.toPrecision(10);
 }
-
