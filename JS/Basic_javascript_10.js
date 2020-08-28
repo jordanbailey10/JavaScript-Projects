@@ -1,6 +1,6 @@
 function call_Loop(){
 var i = 1;
-var text = "";
+var text;
 while (i <= 10) {
     text += "The number is " + i;
     i++;
