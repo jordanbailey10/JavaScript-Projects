@@ -8,8 +8,8 @@ while (i <= 10) {
 document.getElementById("Loop").innerHTML = text
 }
 
-
-var Instruments = ["Guitar", "Drums", "Piano", "Bass", "Violin","Trumpet", "Flute"]; //for loop
+//Array and for loop
+var Instruments = ["Guitar", "Drums", "Piano", "Bass", "Violin","Trumpet", "Flute"]; 
 var Content = "";
 var Y;
 function for_Loop()  {
